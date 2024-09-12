@@ -1,0 +1,10 @@
+<div id="edit_form">
+    <form action="">
+        <label for="id">ID</label>
+        <input type="text" name="id" id="id" disabled>
+        
+        <label for="name">NAME</label>
+        <input type="text" name="nombre" id="name" [(ngModel)]="user.name">
+    </form>
+    <button (click)="mostrar()">mostrar datos</button>
+</div>
