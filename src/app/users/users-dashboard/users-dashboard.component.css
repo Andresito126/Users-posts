@@ -1,12 +1,12 @@
-/* Título */
+
 .text-title {
-    color: #1e40af; /* Azul oscuro */
+    color: #1e40af; 
 }
 
-/* Encabezado de la tabla */
+
 .table_div {
-    background-color: #2563eb; /* Azul */
-    color: #ffffff; /* Texto blanco */
+    background-color: #2563eb; 
+    color: #ffffff; 
 }
 
 .table_title {
@@ -18,7 +18,7 @@
 
 
 .data-user:hover {
-    background-color: #93c5fd; /* Azul más claro en hover */
+    background-color: #93c5fd; 
 }
 
 .data-cell {
